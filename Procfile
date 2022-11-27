@@ -1,0 +1,1 @@
+web: gunicorn Siscont.wsgi --log-file -
